@@ -1,3 +1,3 @@
-defmodule LiveViewDemoWeb.LayoutViewTest do
-  use LiveViewDemoWeb.ConnCase, async: true
+defmodule YuuWeb.LayoutViewTest do
+  use YuuWeb.ConnCase, async: true
 end

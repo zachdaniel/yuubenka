@@ -1,5 +1,5 @@
-defmodule LiveViewDemoWeb.PageControllerTest do
-  use LiveViewDemoWeb.ConnCase
+defmodule YuuWeb.PageControllerTest do
+  use YuuWeb.ConnCase
 
   test "GET /", %{conn: conn} do
     conn = get(conn, "/")

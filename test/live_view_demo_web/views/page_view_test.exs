@@ -1,3 +1,3 @@
-defmodule LiveViewDemoWeb.PageViewTest do
-  use LiveViewDemoWeb.ConnCase, async: true
+defmodule YuuWeb.PageViewTest do
+  use YuuWeb.ConnCase, async: true
 end
