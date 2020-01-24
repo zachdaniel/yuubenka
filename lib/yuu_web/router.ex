@@ -19,6 +19,7 @@ defmodule YuuWeb.Router do
 
     get "/", PageController, :index
     live "/clock", ClockLive
+    live "/search", KanaInput
   end
 
   # Other scopes may use custom stacks.
